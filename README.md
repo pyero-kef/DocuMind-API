@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DocuMind-API
 A system for notes
 =======
@@ -22,4 +21,4 @@ Backend desarrollado con **FastAPI** que utiliza Inteligencia Artificial (**Goog
 Ejecutar el servidor:
 ```bash
 uvicorn app.main:app --reload
->>>>>>> 3e1e19f (add readme)
+
